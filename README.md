@@ -14,7 +14,7 @@ The design is simulated using Icarus Verilog and deployed on the **Xilinx ZedBoa
 | `main.v` | Main Verilog module implementing the SPWM generator |
 | `main_tb.v` | Testbench for simulation |
 | `main.vvp` | Compiled simulation output (Icarus Verilog) |
-| `Circuit.png` | Block-level architecture diagram |
+| `Circuit.png` | Picture of Connection|
 | `simulation result (cf).png` | Simulation waveform (carrier frequency) |
 | `simulation result (0.5 cf).png` | Simulation waveform (half carrier frequency) |
 | `Zedboard+ Connections.jpeg` | Hardware wiring diagram for ZedBoard |
